@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
